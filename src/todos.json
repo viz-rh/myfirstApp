@@ -17,6 +17,12 @@
             "responsable":"Joseph",
             "descripcion":"lorem ipsu 3",
             "priority":"hight"
+        },
+        {
+            "title":"task 3",
+            "responsable":"Joseph",
+            "descripcion":"lorem ipsu 3",
+            "priority":"hight"
         }
     ]
 }
